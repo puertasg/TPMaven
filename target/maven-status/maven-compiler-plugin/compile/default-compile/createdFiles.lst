@@ -1,0 +1,13 @@
+animal\regime\Carnivore.class
+animal\regime\Regime.class
+animal\aliments\Herbe.class
+animal\animals\Homme.class
+animal\animals\Animal.class
+animal\aliments\Aliment.class
+animal\aliments\Viande.class
+animal\animals\Lion.class
+modelisationanimal2\ModelisationAnimal2.class
+animal\animals\Hyene.class
+animal\animals\Lapin.class
+animal\regime\Omnivore.class
+animal\regime\Herbivore.class
